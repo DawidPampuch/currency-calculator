@@ -11,5 +11,6 @@ html {
 .body {
     margin: auto;
     max-width: 1000px;
-    font-family: sans-serif, 'Lato'
+    font-family: sans-serif, 'Lato';
+    padding-top: 50px;
 }
