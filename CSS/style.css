@@ -1,5 +1,9 @@
 html {
     box-sizing: border-box;
+    background-image: url("../Images/Background2.png");
+    overflow: auto;
+    background-repeat: space;
+    background-color: rgb(186, 216, 250);
 }
 
 *,
@@ -13,4 +17,5 @@ html {
     max-width: 1000px;
     font-family: sans-serif, 'Lato';
     padding-top: 50px;
+    padding-bottom: 50px;
 }
