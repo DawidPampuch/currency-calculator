@@ -1,0 +1,45 @@
+.form__header {
+    color: rgb(87, 83, 83);
+}
+
+.form__labelText {
+    display: inline-block;
+    width: 200px;
+    margin-top: 15px;
+    color: rgb(87, 83, 83);
+}
+
+.form__field {
+    display: inline-block;
+    width: 150px;
+    margin-top: 10px;
+    border: solid rgb(117, 117, 117) 1px;
+    border-radius: 10px;
+    color: rgb(87, 83, 83);
+}
+
+.form__button {
+    width: 100%;
+    background-color: white;
+    margin-top: 20px;
+    border: solid rgb(117, 117, 117) 1px;
+    border-radius: 10px;
+    color: rgb(87, 83, 83);
+}
+
+.form__button:hover {
+    background-color: grey;
+    color: black;
+}
+
+.form__button:active {
+    background-color: rgb(87, 83, 83);
+}
+
+.form__result {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color: rgb(87, 83, 83);
+}
