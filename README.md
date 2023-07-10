@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Kalkulator walut] (https://dawidpampuch.github.io/currency-calculator/)
+[Kalkulator walut](https://dawidpampuch.github.io/currency-calculator/)
 
 ## Opis
 
