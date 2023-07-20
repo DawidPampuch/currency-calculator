@@ -1,9 +1,9 @@
-# Dawid Pampuch - Kalkulator walut
+# Dawid Pampuch - Currency calculator
 
 ## Demo
 
-[Kalkulator walut](https://dawidpampuch.github.io/currency-calculator/)
+[Currency calculator](https://dawidpampuch.github.io/currency-calculator/)
 
 ## Opis
 
-Prosty kalkulator do przeliczania kwot z PLN na EUR, USD lub GBP, w zależności od potrzeby przeliczającego.
+A simple calculator for converting amounts from PLN to EUR, USD or GBP, depending on the converter's needs.
